@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node modules
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Hardhat / Foundry cache & artifacts
+cache/
+artifacts/
+typechain/
+typechain-types/
+
+# Logs & system files
+*.log
+.DS_Store
+
